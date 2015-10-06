@@ -29,7 +29,51 @@ This class focus on building conceptual tools for artists. Through writing, disc
 
 ##Classes
 
-- 9/25 
+- 9/25  
+
+[Notes from the class](https://fallsfpc2015.hackpad.com/Concept-and-Theory-Studio-CAyyINBiq0y)  
+
+Visit to the Whitney Museum
+
+**Assignment**
+
+
+- Write a response in less than 500 words about a work or two at the Whitney museum using Deleuze's Postscript on Control Society as reference point. Questions: What is Art? What is New Weapon?
+
+- Please send me a link to your written response by 10.2 Friday 6pm. The response must be posted on a public blog, please don't send a link to hackpad or google doc. 
+
+----------------------------------------
+ 
+Next Friday, we will meet at 1pm and discuss about your responses. [Nick Montfort](http://nickm.com/) will be joining us from 2~3:30pm, present about Platform studies and answer questions. Please complete the readings before the class. 
+
+**Required readings for next week:**
+
+- Chapter 1: Stella and Afterword on Platform Studies" from Racing the Beam by Nick Montfort and Ian Bogst. 
+- [10 PRINT](http://10print.org/), available as a free, Creative Commons PDF at 10print.org. (The chapters on BASIC and the Commodore 64 are most directly relevant.)
+
+Recommended readings and video 
+
+- Interface Effect by Alex Galloway
+- [10 Theses on the Digital](https://vimeo.com/48727142) by Alex Galloway 
+- [Super Mario Clouds](http://www.coryarcangel.com/things-i-made/supermarioclouds/) by Cory Arcangel  
+- Programmed Vision by Wendy Huikyung Chun
+- [Habitual New Media](https://www.youtube.com/watch?v=sohqkmTdKOg) by Wendy Huikyung Chun
+
+**Reading responses**
+
+- [Sarah](http://sarahsfpc.tumblr.com/post/130580371642/for-our-concept-and-theory-studio-class-with)
+- [Brian](http://sfpc.briansolon.net/post/130360368614/art-and-the-new-weapon) 
+- [Alex](http://sfpc.streiten.org/post/130503798302/art-and-the-society-of-control) 
+- [Andy](http://sfpc-amd.tumblr.com/post/130361490909/vertical-roll)
+- [Roy](http://roymacdonald.github.io/blog/2015/10/02/SFPC_CTS_1.html)
+- [Chris](http://sfpchris.tumblr.com/post/130343950288/art-in-societies-of-control)
+- [Becca](http://bdm-at-sfpc.tumblr.com/post/130358449353/concepts-and-theory-assignment-1-what-is-art)
+- [Yosuke](http://blog.yosuke-sakai.com/post/130371547858/can-art-be-a-weapon-and-what-is-art)
+- [Yeseul](http://ysfpc.tumblr.com/post/130528701127/sensibility-as-a-weapon)
+- Michael 
+
+Future classes 
+
 - 10/9
 - 10/23
 - 11/6 
