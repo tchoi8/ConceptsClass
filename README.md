@@ -70,6 +70,8 @@ Recommended readings and video
 - [Becca](http://bdm-at-sfpc.tumblr.com/post/130358449353/concepts-and-theory-assignment-1-what-is-art)
 - [Yosuke](http://blog.yosuke-sakai.com/post/130371547858/can-art-be-a-weapon-and-what-is-art)
 - [Yeseul](http://ysfpc.tumblr.com/post/130528701127/sensibility-as-a-weapon)
+- [Robby](http://robbykraft.com/sfpc/index.php?controller=post&action=view&id_post=2)
+- 
 - Michael 
 
 Future classes 
