@@ -87,9 +87,9 @@ Recommended readings and video
 
 Readings suggested by [Caroline Sinders](http://caroline-sinders.squarespace.com/) who organized [Facets](http://www.facets-con.com/). 
 
-- [Arcadia](https://en.wikipedia.org/wiki/Arcadia_(play) by Tom Stoppard
+- [Arcadia](https://en.wikipedia.org/wiki/Arcadia_(play)) by Tom Stoppard
 - [Cyborg Manifesto](https://en.wikipedia.org/wiki/A_Cyborg_Manifesto) by Donna Haraway
-- [Feminism and Programming Languages](https://www.hastac.org/blogs/arielle-schlesinger/2013/11/26/feminism-and-programming-languages)
+- [Feminism and Programming Languages](https://www.hastac.org/blogs/arielle-schlesinger/2013/11/26/feminism-and-programming-languages) by  Arielle Schlesinger
 - [How Our Engineering Environments are Killing Diversity](https://www.kateheddleston.com/blog/how-our-engineering-environments-are-killing-diversity-introduction) by Kate Heddleston
 - [Xenofeminism](http://www.laboriacuboniks.net/#firstPage)
 - [Lean Out](https://www.dropbox.com/s/j031u2kpektyhkv/leanout.pdf?dl=0) Edited by Elissa Shevinsky
