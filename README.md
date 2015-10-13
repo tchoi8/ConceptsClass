@@ -29,7 +29,7 @@ This class focus on building conceptual tools for artists. Through writing, disc
 
 ##Classes
 
-- 9/25  
+####9/25 Art and weapon 
 
 [Notes from the class](https://fallsfpc2015.hackpad.com/Concept-and-Theory-Studio-CAyyINBiq0y)  
 
@@ -59,6 +59,9 @@ Recommended readings and video
 - Programmed Vision by Wendy Huikyung Chun
 - [Habitual New Media](https://www.youtube.com/watch?v=sohqkmTdKOg) by Wendy Huikyung Chun
 
+####10/9 Platform
+ 
+
 **Reading responses**
 
 - [Sarah](http://sarahsfpc.tumblr.com/post/130580371642/for-our-concept-and-theory-studio-class-with)
@@ -71,15 +74,32 @@ Recommended readings and video
 - [Yosuke](http://blog.yosuke-sakai.com/post/130371547858/can-art-be-a-weapon-and-what-is-art)
 - [Yeseul](http://ysfpc.tumblr.com/post/130528701127/sensibility-as-a-weapon)
 - [Robby](http://robbykraft.com/sfpc/index.php?controller=post&action=view&id_post=2)
-- 
-- Michael 
+- [Michael](http://mgs.github.io/deleuze/sfpc/2015/10/02/welcome-to-jekyll.html) 
+  
+ 
+ **Cory Arcangel's visit**
+ [Notes](https://fallsfpc2015.hackpad.com/Lunch-w-Cory-Arcangel-YNDOGgrw3xU)
+ 
+ **Nick Montfort's visit** 
+ [Notes](https://fallsfpc2015.hackpad.com/Concept-and-Theory-Studio-CAyyINBiq0y)  
 
-Future classes 
+####10/23 Gender 
 
-- 10/9
-- 10/23
-- 11/6 
-- 11/20 
+Readings suggested by [Caroline Sinders](http://caroline-sinders.squarespace.com/) who organized [Facets](http://www.facets-con.com/). 
+
+- [Arcadia](https://en.wikipedia.org/wiki/Arcadia_(play) by Tom Stoppard
+- [Cyborg Manifesto](https://en.wikipedia.org/wiki/A_Cyborg_Manifesto) by Donna Haraway
+- [Feminism and Programming Languages](https://www.hastac.org/blogs/arielle-schlesinger/2013/11/26/feminism-and-programming-languages)
+- [How Our Engineering Environments are Killing Diversity](https://www.kateheddleston.com/blog/how-our-engineering-environments-are-killing-diversity-introduction) by Kate Heddleston
+- [Xenofeminism](http://www.laboriacuboniks.net/#firstPage)
+- [Lean Out](https://www.dropbox.com/s/j031u2kpektyhkv/leanout.pdf?dl=0) Edited by Elissa Shevinsky
+- [Techno feminism](https://www.dropbox.com/s/50hdsjwv5hfqmrt/wajcman_judy_technofeminism.pdf?dl=0) by Judy Wajcman, Chapter 1 & 3 
+
+
+#### 11/6 Participation
+
+#### 11/20 What now? 
+
 
 ##Reading  
 
