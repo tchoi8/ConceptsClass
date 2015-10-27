@@ -33,7 +33,7 @@ In 200 words or less please explain what purpose this exhibition will serve in r
 Some questions you may want to address: 
 What will a public exhibition offer your practice as an artist that you are not currently getting out of your experience as a student? 
 
-#4. Art work Check list
+#4. Artwork Check list
 
 The list should be illustrated with a thumbnail image of each piece. At the time of application we prefer at least 2/3 of the proposed work to be complete. 
 
@@ -45,7 +45,7 @@ Please include the following information in the following format for your checkl
 Please submit a sample of no more than 12 proposed artworks. Video or sound clips MUST not exceed 5 total minutes for all submitted clips. All work sample must be able to be accessed from the web browser. 
 
 #6. Installation plan
-Please provide 2 dimensional floor plan of the artworks and installation. You may submit optional renderings.  Rough [floor plan of the space](https://www.flickr.com/photos/80913365@N04/20525514133/in/album-72157655801037504/)
+Please provide 2 dimensional floor plan of the artworks and installation. You may submit optional renderings.  Rough [floor plan of the space](https://www.flickr.com/photos/80913365@N04/20525514133/in/album-72157655801037504/) *I will provide a better floor plan soon*
 
 #7. Budget 
 Please attach an installation, event, and marketing budget for your show. 

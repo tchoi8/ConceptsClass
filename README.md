@@ -96,7 +96,17 @@ Readings suggested by [Caroline Sinders](http://caroline-sinders.squarespace.com
 - [Techno feminism](https://www.dropbox.com/s/50hdsjwv5hfqmrt/wajcman_judy_technofeminism.pdf?dl=0) by Judy Wajcman, Chapter 1 & 3 
 
 
+Homework
+
+[Exhibition proposal for SFPC](https://github.com/tchoi8/ConceptsClass/blob/master/Exhibition.md)
+
+
 #### 11/6 Participation
+
+Presentation of Exhibition proposals
+
+Lecture on Participation. 
+
 
 #### 11/20 What now? 
 
