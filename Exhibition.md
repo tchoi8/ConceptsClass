@@ -31,7 +31,11 @@ Please attach a 2-3 sentence summary of the Exhibition Narrative. This will be r
 In 200 words or less please explain what purpose this exhibition will serve in relationship to your practice? 
 
 Some questions you may want to address: 
-What will a public exhibition offer your practice as an artist that you are not currently getting out of your experience as a student? 
+
+- What will this public exhibition offer our audience that is different from our current public programs and exhibitions?  
+- What do you want the audience to walk away with and remember? 
+- Why does this matter? 
+
 
 #4. Artwork Check list
 
